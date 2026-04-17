@@ -37,8 +37,7 @@ This project analyzes customer data to understand the factors influencing bike p
   * Customer Commute Distance
 
 ### 📷 Dashboard Preview
-
-![Bike Sales Dashboard](bike-sales-dashboard.png)
+Excel-Dashboard/Screenshot.png
 
 ---
 
@@ -77,7 +76,7 @@ This dashboard analyzes survey data from data professionals to uncover trends in
 
 ### 📷 Dashboard Preview
 
-![Data Professional Survey Dashboard]()
+Power BI-Dashboard/Screeenshot.png
 
 ### 🔗 Live Dashboard
 
